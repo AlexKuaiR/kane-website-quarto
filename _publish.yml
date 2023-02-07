@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 69acd4d0-5264-45bb-813c-b0f4411dae53
+      url: 'https://quartopub.com/sites/alexkuai/kane-website-quarto'
